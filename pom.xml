@@ -52,8 +52,8 @@
       <scope>provided</scope>
     </dependency>
     <dependency>
-      <groupId>com.myspace</groupId>
-      <artifactId>datamodel-test1</artifactId>
+      <groupId>com.myspace1</groupId>
+      <artifactId>datamodel-test</artifactId>
       <version>1.0.0-SNAPSHOT</version>
     </dependency>
   </dependencies>
